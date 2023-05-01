@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/ResistanceTrainerNativeDemo/static/js/main.16494bf4.js",
+    "main.js": "/ResistanceTrainerNativeDemo/static/js/main.2c77934d.js",
     "static/js/920.4c8ab578.js": "/ResistanceTrainerNativeDemo/static/js/920.4c8ab578.js",
     "favicon.ico": "/ResistanceTrainerNativeDemo/favicon.ico",
     "index.html": "/ResistanceTrainerNativeDemo/index.html",
@@ -12,11 +12,11 @@
     "favicon-16.png": "/ResistanceTrainerNativeDemo/favicon-16.png",
     "manifest.json": "/ResistanceTrainerNativeDemo/manifest.json",
     "serve.json": "/ResistanceTrainerNativeDemo/serve.json",
-    "main.16494bf4.js.map": "/ResistanceTrainerNativeDemo/static/js/main.16494bf4.js.map",
+    "main.2c77934d.js.map": "/ResistanceTrainerNativeDemo/static/js/main.2c77934d.js.map",
     "920.4c8ab578.js.map": "/ResistanceTrainerNativeDemo/static/js/920.4c8ab578.js.map"
   },
   "entrypoints": [
     "static/js/920.4c8ab578.js",
-    "static/js/main.16494bf4.js"
+    "static/js/main.2c77934d.js"
   ]
 }
