@@ -20,7 +20,7 @@ export default function LoginScreen({ navigation, route }) {
     <>
       <View style={styles.container}>
         <View style={styles.inputGroup}>
-          <Text style={styles.title}>Resistence Trainer - Native</Text>
+          <Text style={styles.title}>Resistance Trainer - Native</Text>
           <TextInput
             style={styles.input}
             placeholder="Username"
