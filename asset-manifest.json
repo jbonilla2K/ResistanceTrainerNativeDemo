@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/ResistanceTrainerNativeDemo/static/js/main.16494bf4.js",
+    "static/js/920.4c8ab578.js": "/ResistanceTrainerNativeDemo/static/js/920.4c8ab578.js",
+    "favicon.ico": "/ResistanceTrainerNativeDemo/favicon.ico",
+    "index.html": "/ResistanceTrainerNativeDemo/index.html",
+    "static/media/rocket.png": "/ResistanceTrainerNativeDemo/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/ResistanceTrainerNativeDemo/static/media/bell.cf04af27d6a651c4b904.png",
+    "favicon-32.png": "/ResistanceTrainerNativeDemo/favicon-32.png",
+    "static/media/star.png": "/ResistanceTrainerNativeDemo/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/ResistanceTrainerNativeDemo/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "favicon-16.png": "/ResistanceTrainerNativeDemo/favicon-16.png",
+    "manifest.json": "/ResistanceTrainerNativeDemo/manifest.json",
+    "serve.json": "/ResistanceTrainerNativeDemo/serve.json",
+    "main.16494bf4.js.map": "/ResistanceTrainerNativeDemo/static/js/main.16494bf4.js.map",
+    "920.4c8ab578.js.map": "/ResistanceTrainerNativeDemo/static/js/920.4c8ab578.js.map"
+  },
+  "entrypoints": [
+    "static/js/920.4c8ab578.js",
+    "static/js/main.16494bf4.js"
+  ]
+}
