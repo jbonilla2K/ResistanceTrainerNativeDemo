@@ -19,3 +19,5 @@ Screen Components Implemented -
    -accesses a different list of exercises depending on the user's regiment and day of the week (via RegIndex & get.Day)
    -progresses through a different list for each workout routine (setCur[exercise group]&RegIndex switch)
    -automatically updates a user's maximum lifts if an attempted value is higher than the listed maximum (setCurWeight(1-3))
+
+Portfolio Link - https://sites.google.com/view/portfolio-julianbonilla/home
